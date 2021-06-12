@@ -1,0 +1,9 @@
+
+<head>
+#title#
+</head>
+<body>
+<header> #message1# </header>
+#content#
+#ahref#
+</body>
